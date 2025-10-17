@@ -1,0 +1,67 @@
+body {
+  background-color: #eaddd1;
+  justify-content: center;
+  text-align: center;
+}
+body header {
+  margin-top: 4rem;
+}
+body header .castillo {
+  position: absolute;
+  left: 35%;
+  top: 12%;
+  width: 30%;
+}
+body header h1 {
+  font-size: 2.5rem;
+  font-family: "Ballet", cursive;
+  background: linear-gradient(130deg, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e);
+  -webkit-background-clip: text;
+  /* El degradado se aplica al texto */
+  -webkit-text-fill-color: transparent;
+}
+body main h2 {
+  margin-top: 3rem;
+  font-size: 3rem;
+  font-family: "Ballet", cursive;
+  background: linear-gradient(130deg, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e);
+  -webkit-background-clip: text;
+  /* El degradado se aplica al texto */
+  -webkit-text-fill-color: transparent;
+}
+body main .frase-1 {
+  font-family: "Kapakana", cursive;
+  font-size: 2rem;
+  font-weight: bold;
+  width: 75%;
+  text-align: center;
+  justify-self: center;
+  background: linear-gradient(130deg, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e, #e9be75, #a16d4e);
+  -webkit-background-clip: text;
+  /* El degradado se aplica al texto */
+  -webkit-text-fill-color: transparent;
+}
+body main .especificaciones {
+  width: 50%;
+  justify-self: center;
+}
+body main .especificaciones .fecha-hora {
+  position: relative;
+  width: 100%;
+}
+body main .especificaciones .fecha-hora .recuadro {
+  width: 100%;
+}
+body main .especificaciones .fecha-hora .texto {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  justify-content: center;
+  text-align: center;
+}
+body main .especificaciones .fecha-hora .texto p {
+  font-size: 1.2rem;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/*# sourceMappingURL=style.css.map */
